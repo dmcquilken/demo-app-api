@@ -1,0 +1,9 @@
+datasource:
+  url: jdbc:postgresql://192.168.56.100:5432/demoapp
+  username: demouser
+  password: demouser
+  validationQuery: SELECT 1
+  initialSize: 1
+  maxActive: 3
+  testWhileIdle: true
+  testOnBorrow: true
