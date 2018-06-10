@@ -1,4 +1,4 @@
-package com.enterprisedb.salesengineering.demoapprestapi.core;
+package com.enterprisedb.salesengineering.demoapprestapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

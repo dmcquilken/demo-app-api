@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS public.blogs;
+DROP TABLE IF EXISTS public.blog_posts;
 
-CREATE TABLE PUBLIC.blogs (
+CREATE TABLE PUBLIC.blog_posts (
   id uuid ,
   data JSONB
 )
